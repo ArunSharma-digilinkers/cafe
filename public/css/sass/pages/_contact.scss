@@ -1,0 +1,104 @@
+/*===============================================================
+	Contact us page
+=================================================================*/
+#mail-msg-alert {
+	margin-bottom: 3rem;
+}
+#mail-msg-alert button.btn {
+	display: table;
+	margin: 0 auto;
+}
+#mail-msg {
+	color: $color-white;
+}
+#mail-msg:hover {
+	text-decoration: none;
+}
+
+.contact-form {
+    width: 100%;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 30px;
+    border-radius: 15px;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+.contact-section {
+	
+
+	&__widget {
+		margin-bottom: 1rem;
+		background-color: #e6bc8c;
+        padding: 25px;
+        border-radius: 15px;
+		height: 100%;
+		text-align: center;
+	}
+
+	span {
+		margin-left: 10px;
+	}
+
+	.social-list {
+		padding: 0;
+    margin-bottom: 0;
+    display: flex;
+
+		ul, li {
+			margin-right: 20px;
+		}
+
+		i {
+			color: #000;
+			width: 35px;
+			height: 35px;
+			font-size: 23px;
+			border: 1px solid #fff;
+			text-align: center;
+			line-height: 35px;
+			transition: all 0.3s;
+			background: #fff;
+
+			&:hover {
+				color: $color-white;
+				border-color: transparent;
+				background-color: $color-text;
+			}
+		}
+	}
+}
+.dark .contact-section .social-list i {
+	color: $light-bg2;
+	border-color: $light-bg2;
+	transition: all .3s;
+
+	&:hover {
+		color: $color-white;
+		border-color: $color-white;
+	}
+}
+.contact-map {
+	position: relative;
+	padding-bottom: 34%;
+
+	iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 100%;
+		width: 100%;
+	}
+}
+
+.contact-section__widget a {
+      color: #000;
+}
+
+.c-btn {
+   background-color: #003399;
+    color: #fff;
+    padding: 15px 25px;
+    border-radius: 10px;
+}
