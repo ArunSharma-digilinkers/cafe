@@ -1178,6 +1178,110 @@ p {
   border-radius: 18px;
 }
 
+.home3-banner-box {
+  background-image: url("../img/home3-banner.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 200px;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.6196078431);
+}
+.home3-banner-box h2 {
+  color: #fff;
+  text-align: center;
+  font-weight: 900;
+  font-size: 40px;
+  margin-top: 30px;
+}
+.home3-banner-box p {
+  color: #fff;
+  text-align: center;
+}
+
+.hero-section-box .open-hours-card {
+  width: 400px;
+  background: linear-gradient(135deg, #d3a378, #e0b98c);
+  border-radius: 20px;
+  padding: 20px;
+  color: #1e1e1e;
+  font-family: "Segoe UI", sans-serif;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: -54px;
+  margin-right: 15px;
+}
+.hero-section-box .open-hours-card .icon {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.hero-section-box .open-hours-card h3 {
+  margin: 0 0 10px;
+  font-size: 18px;
+}
+.hero-section-box .open-hours-card p {
+  display: flex;
+  justify-content: space-between;
+  margin: 4px 0;
+  font-size: 14px;
+}
+.hero-section-box .open-hours-card span {
+  font-weight: 500;
+}
+
+.home3-info-wrapper {
+  background-color: #f6e4cc;
+}
+
+.br60 {
+  border-radius: 60px;
+}
+
+.features-section {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 40px;
+  padding: 40px;
+  background-color: #fdf1dd;
+  font-family: "Georgia", serif;
+  border-radius: 20px;
+}
+
+.feature-box {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+}
+
+.number {
+  background-color: #3a2c1e;
+  color: #fff;
+  font-size: 18px;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  line-height: 31px;
+  border-radius: 50%;
+  font-weight: bold;
+  flex-shrink: 0;
+}
+
+.feature-box h3 {
+  margin: 0 0 5px;
+  font-size: 18px;
+  color: #3a2c1e;
+}
+
+.feature-box p {
+  margin: 0;
+  font-size: 14px;
+  color: #444;
+}
+
+.gallery-wrapper h2 {
+  font-size: 42px;
+  font-weight: 700;
+}
+
 .banner-box {
   background-image: url("../img/about-banner.jpg");
   background-position: center;

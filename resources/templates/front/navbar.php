@@ -18,6 +18,8 @@
                         <li><hr class="dropdown-divider"></li>
                         <li><a class="dropdown-item" href="index2">Home 2</a></li>
                         <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="index-3">Home 3</a></li>
+                        <li><hr class="dropdown-divider"></li>
                     </ul>
                 </li>
                 <li class="nav-item">
