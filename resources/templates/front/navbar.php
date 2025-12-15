@@ -31,9 +31,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="<?php echo $path; ?>contact-us">Contact</a>
                 </li>
-                <li class="nav-item nav-item-modal">
+                <!-- <li class="nav-item nav-item-modal">
                     <a class="nav-link btn c-btn btn-show-modal" href="#">Quick Enquiry</a>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <!-- <a class="nav-link" href="<?php //echo $path; ?>contact-us">Contact</a> -->
                      <!-- <div class="mode-toggler">

@@ -249,6 +249,72 @@ h2{
     }
 }
 
+
+.reservation-form {
+    background-color: #f4f1ea;
+	padding: 50px;
+    border-radius: 10px;
+    width: 100%;
+    text-align: center;
+
+	h2 {
+		font-size: 24px;
+		margin-bottom: 20px;
+		color: #333;
+	}
+	
+}
+
+.form-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+input, select {
+    width: 32%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+
+.hm-form-btn {
+    background-color: #341e18;
+    color: #fff;
+    padding: 13px 30px;
+    font-family: "Open Sans", sans-serif;
+    border-radius: 30px;
+    border:none;
+    margin-top: 15px;
+}
+
+.hm-form-btn :hover {
+  background-color: #341e18 !important;
+} 
+
+
+.icon-content {
+    display: flex;
+    border: 1px solid #8080806e;
+    border-width: 1px 0;
+    padding: 15px;
+}
+
+.ab-value-wrap {
+    display: flex;
+    justify-content: center;
+
+     img {
+    width: 100px;
+}
+
+.ab-txt-wrap {
+    margin-left: 5px;
+}
+}
+
 .hero-section-box {
 .open-hours-card {
   width: 400px;;
@@ -335,12 +401,57 @@ h2{
 }
 
 
-.gallery-wrapper {
-    
-  h2 {
-        font-size: 42px;
-        font-weight: 700;
-  }
+.our-mission-wrapper {
+    background-image: url(../img/background-img-1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px 0;
+
+}
+
+.chef-special-box {
+    display: flex;
+    justify-content: center;
+    align-items: anchor-center;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background-color: #fff;
+    padding: 10px;
+}
+
+ .chef-special-description  h5 {
+      font-weight: 700;
+    }
+
+.timing-wrapper {
+    background-image: url(../img/rest-img.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.opening-hours-table {
+    width: 100%;
+}
+
+.opening-hours-table h6 {
+    color: #fff;
+	font-size: 20px;
+}
+
+.opening-hours-table td {
+    text-wrap: nowrap;
+    padding: 10px 0;
+    color: #fff;
+	font-size: 20px;
+}
+
+.timing-wrap h3  {
+    color: #fff;
+}
+
+.timing-wrap p {
+    color: #fff;
 }
 
 ///////////////////////// About Us ////////////////////////////
