@@ -13,14 +13,18 @@
 	</div>
 
 
-    <div class="home-about-wrapper section-entry">
+        <div class="home-about-wrapper section-entry">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6 col-md-6 col-sm-12">
 						<div class="hm-about-box">
 							<h3>Brewed with Passion, Served with Sweetness</h3>
-							<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio maxime vero, accusantium illo quam, earum sequi, provident cum facere molestias est assumenda impedit deleniti sapiente eum minus inventore cumque iste. Minus, deleniti ex molestiae, pariatur aperiam incidunt saepe ducimus ab voluptate fuga velit iusto numquam reprehenderit accusamus facilis. Cumque, facilis.</p>
-							<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio maxime vero, accusantium illo quam, earum sequi, provident cum facere molestias est assumenda impedit.</p>
+							<p>
+								Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio maxime vero, accusantium illo quam, earum sequi, provident cum facere molestias est assumenda impedit deleniti sapiente eum minus inventore cumque iste. Minus, deleniti ex molestiae, pariatur aperiam incidunt saepe ducimus ab voluptate fuga velit iusto numquam reprehenderit accusamus facilis. Cumque, facilis.
+							</p>
+							<p>
+								Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio maxime vero, accusantium illo quam, earum sequi, provident cum facere molestias est assumenda impedit.
+							</p>
 						</div>
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12">

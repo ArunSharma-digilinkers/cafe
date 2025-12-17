@@ -22,14 +22,30 @@
                         <li><hr class="dropdown-divider"></li>
                     </ul>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="<?php echo $path; ?>about-us">About</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">About Us</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="about-us">About 1</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="about-2">About 2</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="about-3">About 3</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                    </ul>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="<?php echo $path; ?>component">Components</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="<?php echo $path; ?>contact-us">Contact</a>
+               <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Contact Us</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="contact-us">Contact 1</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="Contact-2">Contact 2</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="Contact-3">Contact 3</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                    </ul>
                 </li>
                 <!-- <li class="nav-item nav-item-modal">
                     <a class="nav-link btn c-btn btn-show-modal" href="#">Quick Enquiry</a>
