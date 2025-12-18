@@ -1475,6 +1475,16 @@ input, select {
   border-radius: 30px;
 }
 
+.ab2-banner-box {
+  background-image: url("../img/ab2-banner.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 270px;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.46);
+}
+
 .ab2-about-wrapper {
   background-image: url("../img/background-img-1.png");
   background-repeat: no-repeat;
@@ -1510,7 +1520,7 @@ input, select {
   color: #000;
 }
 
-.stroy-wrapper {
+.story-wrapper {
   background-color: #d3a378;
 }
 
@@ -1651,6 +1661,39 @@ input, select {
   font-weight: 300;
 }
 
+.service-info-wrapper {
+  background-color: rgba(230, 230, 230, 0.2901960784);
+}
+
+.service-banner-box {
+  background-image: url("../img/service-banner.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 270px;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.service-img-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.service-img-box img {
+  width: 100px;
+  border: 1px solid;
+  border-radius: 50%;
+  padding: 10px;
+  height: 100px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.service-txt-box {
+  text-align: center;
+}
+
 .news-letter-wrap {
   background-color: #e6bc8c;
 }
@@ -1702,6 +1745,101 @@ input, select {
 
 .newsletter-form button:hover {
   background-color: #2a211b;
+}
+
+.menu-banner-box {
+  background-image: url("../img/menu1-banner.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 270px;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.menu1-categories {
+  background-image: url(../img/appetizers-menu-img.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu2-categories {
+  background-image: url(../img/main-course-menu-img.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu3-categories {
+  background-image: url(../img/dessert-menu-img.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu4-categories {
+  background-image: url(../img/beverages-menu-img.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-categories {
+  padding: 60px 0;
+  background-color: #fff;
+}
+
+.menu-category-box {
+  background: #f2f2f2;
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+
+.menu-category-box h3 {
+  font-size: 24px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.menu-category-box ul {
+  list-style: none;
+  padding: 0;
+}
+
+.menu-category-box ul li {
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  padding: 8px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.menu-category-box ul li:last-child {
+  border-bottom: none;
+}
+
+.price {
+  font-weight: bold;
+  color: #e74c3c;
+}
+
+/* Button styling */
+.hm-button-wrap {
+  margin-top: 20px;
+}
+
+.hm-button-wrap a {
+  background-color: #e74c3c;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.hm-button-wrap a:hover {
+  background-color: #c0392b;
 }
 
 /*====================================================================

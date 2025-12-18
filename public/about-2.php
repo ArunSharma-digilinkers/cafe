@@ -8,7 +8,7 @@
 <main class="s1">
 	<div class="main-wrapper">
 
-            <div class="banner-box">
+            <div class="ab2-banner-box">
                 
             </div>
 
@@ -89,7 +89,7 @@
         </div>
 
 
-        <div class="stroy-wrapper section-entry">
+        <div class="story-wrapper section-entry">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7 col-md-7 col-sm-12">

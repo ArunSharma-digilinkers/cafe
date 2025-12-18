@@ -34,9 +34,20 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="<?php echo $path; ?>component">Components</a>
+                    <a class="nav-link" href="<?php echo $path; ?>services">Services</a>
                 </li>
-               <li class="nav-item dropdown">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Our Menu</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="menu">Menu 1</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="menu-2">Menu 2</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="menu-3">Menu 3</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Contact Us</a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="contact-us">Contact 1</a></li>
