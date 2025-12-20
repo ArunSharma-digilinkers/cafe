@@ -7,9 +7,19 @@
 
 <main class="s1">
 	<div class="main-wrapper">
+
     
-     <div class="service-banner-box">
-            
+    <div class="service-banner-box">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="banner-txt">
+                        <h3>Services</h3>  
+                        <p>At our coffee café, we offer more than just a cup of coffee — we deliver a cozy experience. From expertly brewed espresso-based drinks to handcrafted teas, artisanal pastries, and light bites, our menu is designed to satisfy every craving.</p> 
+                    </div>
+                </div> 
+            </div>         
+        </div>
     </div>
 
 
@@ -17,149 +27,157 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
-                    <div class="service-box">
-                        <h3>Our Services</h3>
-                        <p>
-                            Welcome to BrewCoffee Cafe! We’re passionate about serving you the finest coffee, delicious pastries, and a welcoming space where you can relax, work, or connect with friends. Explore the variety of services we offer and discover why we’re more than just a café – we’re your neighborhood haven. Whether you're stopping by for your morning brew, catching up with loved ones over a warm latte, or looking for a quiet corner to work, we’ve created a place where you can feel at home. Our commitment to quality, community, and comfort makes every visit a special experience.
-                        </p>
-                        <p>
-                            we believe that every cup of coffee tells a story. From the first sip to the last bite of your favorite pastry, we are committed to creating an experience that delights all your senses. Our friendly baristas are always ready to share their expertise and help you find your new favorite drink. With a focus on sustainability and locally sourced ingredients, we take pride in supporting our community while serving you the very best. So, whether you're a regular or a first-time guest, we invite you to sit back, relax, and enjoy the warm, inviting atmosphere that makes our café a true gathering place.
-                        </p>
-
-                        <h3>Comfortable Space for Relaxing & Working</h3>
-                        <p>
-                            Looking for a cozy spot to work, read, or meet friends? Our café is designed to provide a comfortable and welcoming environment for everyone. With free Wi-Fi, plenty of seating, and a relaxing atmosphere, we’re the perfect place for both work and leisure.
-                        </p>
-                        <div class="row">
-                        <div class="col-lg-6 col-md-6 col-sm-12">
-                            <p>At BrewCoffee Cafe, we are dedicated to providing a truly exceptional café experience. Here’s what makes us stand out:</p>
-
-                            <ul>
-                                <li class="mb-3"><strong>High-Quality Coffee :</strong> We use only the best beans and take time to craft each cup.</li>
-
-                                <li class="mb-3"><strong>Fresh & Delicious Pastries :</strong> Made with care and attention to detail, our baked goods are the perfect complement to your drink.</li>
-
-                                <li class="mb-3"><strong>Welcoming Atmosphere :</strong> Whether you’re here for a quiet break, a business meeting, or a catch-up with friends, we’ve got the space for you.</li>
-
-                                <li class="mb-3"><strong>Local & Sustainable :</strong> We are proud to support local suppliers and use sustainable practices whenever possible.</li>
-
-                                <li class="mb-3"><strong>Event Hosting & Catering :</strong> Special packages for group seating and private access.</li>
-                            </ul>
+                   <div class="services-grid">
+                       <div class="service-box">
+                          <img src="img/coffee-icon.png" class="img-fluid">
+                          <h3>Specialty Brews</h3>
+                          <p>Crafted with passion</p>
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12">
-                            <img src="img/service-img.jpg" class="img-fluid br15">
+                        <div class="service-box">
+                           <img src="img/treat-icon.png" class="img-fluid">
+                           <h3>Artisan Pastries</h3>
+                           <p>Freshly baked treats</p>
                         </div>
-                     </div>
+                        <div class="service-box">
+                            <img src="img/ice-coffee-icon.png" class="img-fluid">
+                            <h3>Coffee To Go</h3>
+                            <p>Convenient & quick</p>
+                        </div>
+                        <div class="service-box">
+                            <img src="img/catering-img.png" class="img-fluid">
+                            <h3>Coffee Catering</h3>
+                            <p>Perfect for any event</p>
+                        </div>
+                        <div class="service-box">
+                            <img src="img/coffee-machine-icon.png" class="img-fluid">
+                            <h3>Barista Training</h3>
+                            <p>Learn from the best</p>
+                        </div>
+                        <div class="service-box">
+                            <img src="img/ambiance-icon.png" class="img-fluid">
+                            <h3>Relaxing Ambiance</h3>
+                            <p>Cozy up from the best</p>
+                        </div>
+                    </div>
+                    <div class="service-t">
+                        <button id="orderBtn">Order Online</button>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="service-info-wrapper section-entry">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 col-lg-12 col-sm-12 mb-5">
-                    <h3 class="text-center">Our Café Services: Crafted for Convenience and Enjoyment</h3>
-                    <p class=text-center>We offer more than just a great cup of coffee! Explore the wide range of services we provide to make your experience with us special, whether you're here to enjoy a quick drink, celebrate an event, or order from the comfort of your home.</p>
-                </div>
+        <div class="coffee-process section-entry">
+            <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
-                        <div class="service-box">
-                            <div class="service-img-box">
-                                <img src="img/drive-icon.png" class="img-fluid">
+                            <div class="col-lg-12 col-md-12 col-sm-12">
+                                <div class="process-head text-center mb-5">
+                                     <h5>Freshly Brewed Perfection, Delivered to Your Cup</h5>
+                                <h3 class="mb-3">Our Coffee Process : Elevate Your Coffee Experience</h3>
+                                <p>Welcome to your daily dose of caffeine joy. At [Your Brand Name], we believe coffee is more than just a drink — it's a ritual, a passion, and a moment of peace in a busy world. We source the finest beans, roast them to perfection, and deliver rich, aromatic blends that awaken your senses.<p>
+                                </div>
                             </div>
-                            <div class="service-txt-box">   
-                                <h5>Drive-in</h5>
-                                <p>
-                                Enjoy your favorite coffee without leaving your car. Quick, easy, and convenient service.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
-                        <div class="service-box">
-                            <div class="service-img-box">
-                                <img src="img/birthday-icon.png" class="img-fluid">
-                            </div>
-                            <div class="service-txt-box ml20">   
-                                <h5>Birthday Parties</h5>
-                                <p>
-                                Enjoy your favorite coffee without leaving your car. Quick, easy, and convenient service.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
-                        <div class="service-box">
-                            <div class="service-img-box">
-                                <img src="img/delievery-icon.png" class="img-fluid">
-                            </div>
-                            <div class="service-txt-box ml20">   
-                                <h5>Delivery</h5>
-                                <p>
-                                Enjoy your favorite coffee without leaving your car. Quick, easy, and convenient service.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            <div class="col-lg-12 col-md-12 col-sm-12">
+                                <div class="process-card mb-4">
+                                     <div class="process-img">
+                                        <img src="img/step-1.jpg" class="img-fluid">
+                                     </div>
+                                     <div class="process-txt">
+                                        <h3>Select the Finest Beans</h3>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic enim error vero inventore laborum ratione! Lorem ipsum, dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                     </div>
+                                </div>
 
-                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
-                        <div class="service-box">
-                            <div class="service-img-box">
-                                <img src="img/order-food-icon.png" class="img-fluid">
-                            </div>
-                            <div class="service-txt-box">   
-                                <h5>Online Ordering</h5>
-                                <p>
-                                Enjoy your favorite coffee without leaving your car. Quick, easy, and convenient service.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
-                        <div class="service-box">
-                            <div class="service-img-box">
-                                <img src="img/take-away-icon.png" class="img-fluid">
-                            </div>
-                            <div class="service-txt-box ml20">   
-                                <h5>Take away</h5>
-                                <p>
-                                Enjoy your favorite coffee without leaving your car. Quick, easy, and convenient service.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
-                        <div class="service-box">
-                            <div class="service-img-box">
-                                <img src="img/membership.png" class="img-fluid">
-                            </div>
-                            <div class="service-txt-box ml20">   
-                                <h5>Loyalty Card</h5>
-                                <p>
-                                Enjoy your favorite coffee without leaving your car. Quick, easy, and convenient service.
-                                </p>
-                            </div>
+                                <div class="process-card mb-4">
+                                     <div class="process-img">
+                                        <img src="img/step-2.jpg" class="img-fluid">
+                                     </div>
+                                     <div class="process-txt">
+                                        <h3>Expert Roasting & Grinding </h3>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic enim error vero inventore laborum ratione! Lorem ipsum, dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                     </div>
+                                </div>
+
+                                <div class="process-card mb-4">
+                                     <div class="process-img">
+                                        <img src="img/step-3.jpg" class="img-fluid">
+                                     </div>
+                                     <div class="process-txt">
+                                        <h3>Brewing with Precision</h3>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic enim error vero inventore laborum ratione! Lorem ipsum, dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                     </div>
+                                </div>
+
+                                <div class="process-card mb-4">
+                                     <div class="process-img">
+                                        <img src="img/step-4.jpg" class="img-fluid">
+                                     </div>
+                                     <div class="process-txt">
+                                        <h3>Serve and Enjoy</h3>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic enim error vero inventore laborum ratione! Lorem ipsum, dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                     </div>
+                                </div>
+                            <div>
                         </div>
                     </div>
                 </div>
-                
             </div>
         </div>
-    </div>
+
+
+        <div class="service-gallery section-entry">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12 mb-3">
+                        <div class="service-head">
+                            <h5>Your Coffee. Your Community. Your Feed.</h5>
+                            <h3 class="mb-2">Our Gallery/instagram Feed</h3>
+                            <p>We’re more than just coffee—we’re a community. Share your café experience with us and see the magic unfold in our gallery. Follow us on Instagram and become part of our story.<p>
+                        </div>
+                    </div> 
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                       <div class="gallery-box-1">
+
+                       </div>
+                    </div> 
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                        <div class="gallery-box-2">
+
+                       </div>
+                    </div>  
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                       <div class="gallery-box-3">
+
+                       </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                        <div class="gallery-box-4">
+
+                       </div>
+                    </div> 
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                       <div class="gallery-box-5">
+
+                       </div>
+                    </div>  
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                       <div class="gallery-box-6">
+                          
+                       </div>
+                    </div>          
+                </div>
+            </div>
+        </div>
+ 
+
+
+       
+
+        
 
 
 
-
-
-
-
-
+    
 
     </div>
 </main>
