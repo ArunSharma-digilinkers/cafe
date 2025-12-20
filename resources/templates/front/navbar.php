@@ -41,9 +41,9 @@
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="menu">Menu 1</a></li>
                         <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="menu-2">Menu 2</a></li>
+                        <li><a class="dropdown-item" href="menu-1">Menu 2</a></li>
                         <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="menu-3">Menu 3</a></li>
+                        <li><a class="dropdown-item" href="menu-2">Menu 3</a></li>
                         <li><hr class="dropdown-divider"></li>
                     </ul>
                 </li>

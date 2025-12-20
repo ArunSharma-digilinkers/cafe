@@ -35,6 +35,11 @@ e.preventDefault();
 alert('Thank you! Your reservation request has been submitted.');
 });
 
+
+document.querySelector(".cta button").addEventListener("click", () => {
+alert("Thank you for joining our Coffee Club!");
+});
+
 // Initialize Swiper
 // Cube effect
 var swiper = new Swiper(".mySwiper", {
