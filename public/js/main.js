@@ -29,6 +29,24 @@ $('.home-products').owlCarousel({
     }
 })
 
+////////////////////// menu 2 //////////////////////
+
+function filterItems(category) {
+document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+event.target.classList.add('active');
+
+
+const cards = document.querySelectorAll('.menu-card');
+cards.forEach(card => {
+const cat = card.getAttribute('data-category');
+if (category === 'all' || cat.includes(category)) {
+card.style.display = 'block';
+} else {
+card.style.display = 'none';
+}
+});
+}
+
 
 document.getElementById('reservation-form').addEventListener('submit', function(e) {
 e.preventDefault();

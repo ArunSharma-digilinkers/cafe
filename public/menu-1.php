@@ -8,18 +8,20 @@
 <main class="s1">
 	<div class="main-wrapper">
 
-    <div class="menu-1-banner-box">
+    <div class="menu1-banner-box">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="banner-txt">
-                        <h3>Our Menu</h3> 
-                        <h5>Explore Our Signature Coffee, Pastries & More</h5> 
-                        <p>From velvety cappuccinos to freshly baked artisan pastries, our menu is designed to delight every craving. Whether you’re stopping by for your morning boost, a sweet treat, or a relaxing moment with friends, there’s something on our menu for everyone. Crafted with premium ingredients and a touch of passion, every item promises warmth and flavor in every bite and sip.</p> 
+                        <h3>Coffee First. Everything Else Later</h3> 
+                        <h5>Artisan Roasts & Vibes Worth Staying For</h5> 
+                        <p>
+                            Welcome to [Your Café Name], where coffee meets culture. We serve small-batch brews, creative blends, and an atmosphere designed for thinkers, dreamers, and doers. Free Wi-Fi, handcrafted drinks, and curated playlists? Check. Whether you're working remote or catching up with friends, you'll always find your space—and your flavor—here.
+                        </p> 
                     </div>
                 </div> 
             </div>         
-        </div>
+        </div>   
     </div>
 
 

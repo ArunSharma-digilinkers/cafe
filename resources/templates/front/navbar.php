@@ -16,7 +16,7 @@
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="index">Home 1</a></li>
                         <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="index2">Home 2</a></li>
+                        <li><a class="dropdown-item" href="index-2">Home 2</a></li>
                         <li><hr class="dropdown-divider"></li>
                         <li><a class="dropdown-item" href="index-3">Home 3</a></li>
                         <li><hr class="dropdown-divider"></li>
@@ -33,19 +33,19 @@
                         <li><hr class="dropdown-divider"></li>
                     </ul>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="<?php echo $path; ?>services">Services</a>
-                </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Our Menu</a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="menu">Menu 1</a></li>
+                        <li><a class="dropdown-item" href="menu-1">Menu 1</a></li>
                         <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="menu-1">Menu 2</a></li>
+                        <li><a class="dropdown-item" href="menu-2">Menu 2</a></li>
                         <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="menu-2">Menu 3</a></li>
+                        <li><a class="dropdown-item" href="menu">Menu 3</a></li>
                         <li><hr class="dropdown-divider"></li>
                     </ul>
+                </li>
+                 <li class="nav-item">
+                    <a class="nav-link" href="<?php echo $path; ?>services">Services</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Contact Us</a>
@@ -54,7 +54,7 @@
                         <li><hr class="dropdown-divider"></li>
                         <li><a class="dropdown-item" href="Contact-2">Contact 2</a></li>
                         <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="Contact-3">Contact 3</a></li>
+                        <li><a class="dropdown-item" href="contact-3">Contact 3</a></li>
                         <li><hr class="dropdown-divider"></li>
                     </ul>
                 </li>

@@ -131,36 +131,38 @@
                     <div class="col-lg-12 col-md-12 col-sm-12 mb-3">
                         <div class="service-head">
                             <h5>Your Coffee. Your Community. Your Feed.</h5>
-                            <h3 class="mb-2">Our Gallery/instagram Feed</h3>
-                            <p>We’re more than just coffee—we’re a community. Share your café experience with us and see the magic unfold in our gallery. Follow us on Instagram and become part of our story.<p>
+                            <h3 class="mb-2">Our Gallery/Instagram Feed</h3>
+                            <p>
+                                We’re more than just coffee—we’re a community. Share your café experience with us and see the magic unfold in our gallery. Follow us on Instagram and become part of our story.
+                                <p>
                         </div>
                     </div> 
-                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3 gallery-box">
                        <div class="gallery-box-1">
 
                        </div>
                     </div> 
-                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3 gallery-box">
                         <div class="gallery-box-2">
 
                        </div>
                     </div>  
-                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3 gallery-box">
                        <div class="gallery-box-3">
 
                        </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3 gallery-box">
                         <div class="gallery-box-4">
 
                        </div>
                     </div> 
-                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3 gallery-box">
                        <div class="gallery-box-5">
 
                        </div>
                     </div>  
-                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-3 gallery-box">
                        <div class="gallery-box-6">
                           
                        </div>
