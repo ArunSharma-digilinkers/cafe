@@ -214,8 +214,8 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4 col-md-4 col-sm-12 mt-4">
-						<div class="test-wrap">
+					<div class="col-lg-4 col-md-4 col-sm-12 mt35 mt-4">
+						<div class="test-wrap mt35">
 							<div class="test-img-box">
 								<img src="img/customer-img.jpg" class="img-fluid">
 
@@ -233,7 +233,7 @@
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 mt-4">
-						<div class="test-wrap">
+						<div class="test-wrap mt35">
 							<div class="test-img-box">
 								<img src="img/customer-img.jpg" class="img-fluid">
 

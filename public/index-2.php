@@ -8,7 +8,7 @@
 <main class="s1">
 	<div class="main-wrapper">
 
-    <div class="home3-banner-box">
+    <div class="home2-banner-box">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
@@ -86,7 +86,9 @@
                                         </div>
                                         <div class="ab-txt-wrap">
                                             <h5>Qualified Chef</h5>
-                                            <p>Lorem Ipsum is simply dummy text.</p>
+                                            <p>
+                                                Lorem Ipsum is simply dummy text.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -97,7 +99,8 @@
                                         </div>
                                         <div class="ab-txt-wrap">
                                             <h5>Super Quality Food</h5>
-                                            <p>Lorem Ipsum is simply dummy text.</p>
+                                            <p>
+                                                Lorem Ipsum is simply dummy text.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -105,7 +108,7 @@
                     </div>
                 </div>
 
-                 <div class="col-lg-5 col-md-5 col-sm-12">
+                 <div class="col-lg-5 col-md-5 col-sm-12 mt35">
                     <img src="img/home3-hero-img.png" class="img-fluid br60">
                 </div>
             </div>
@@ -119,13 +122,13 @@
                 <div class="col-lg-5 col-md-5 col-sm-12">
                     <img src="img/home3-info-img.png" class="img-fluid br60">
                 </div>
-                <div class="col-lg-7 col-md-7 col-sm-12">
+                <div class="col-lg-7 col-md-7 col-sm-12 mt35">
                     <h3>The Heart Behind the Beans</h3>
                     <p>
                         Welcome to BrewCoffee Cafe, where every cup tells a story. We’re more than just a coffee shop—we’re a cozy corner for conversation, creativity, and community. From carefully sourced beans to handcrafted brews, our mission is to serve quality coffee with heart.Come sip, relax, and stay awhile.
                     </p>
 
-                    <section class="features-section">
+                    <section class="features-section mt35">
                         <div class="feature-box">
                             <div class="number">1</div>
                             <div>
@@ -243,7 +246,7 @@
                             <img src="img/chef-1.jpg" class="img-fluid" alt="Chef's Special">
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-12 content-center">
+                    <div class="col-lg-3 col-md-3 col-sm-12 content-center mt35">
                         <div class="chef-special-description">
                             <h5>Caramel Macchiato Delight</h5>
                             <p>
@@ -255,12 +258,12 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-3 col-sm-12">
+                    <div class="col-lg-3 col-md-3 col-sm-12 mt35">
                         <div class="chef-special-box">
                             <img src="img/chef-2.jpg" class="img-fluid" alt="Chef's Special">
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-12 content-center">
+                    <div class="col-lg-3 col-md-3 col-sm-12 content-center mt35">
                         <div class="chef-special-description">
                             <h5>Vanilla Cold Brew Bliss</h5>
                             <p>

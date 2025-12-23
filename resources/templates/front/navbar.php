@@ -29,7 +29,7 @@
                         <li><hr class="dropdown-divider"></li>
                         <li><a class="dropdown-item" href="about-2">About 2</a></li>
                         <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="about-3">About 3</a></li>
+                        <li><a class="dropdown-item" href="">About 3</a></li>
                         <li><hr class="dropdown-divider"></li>
                     </ul>
                 </li>

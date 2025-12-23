@@ -27,26 +27,26 @@
                 </div>
 
                 <div class="vision-section">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6 col-md-12">
-                <h3 class="section-title">Our Vision & Passion</h3>
-                <h5 class="section-subtitle">Fueling Conversations, Connections, and Community Through Every Cup We Pour</h5>
-                <p>
-                    At BrewCoffee, our vision is to create a community-driven café experience that blends soulful coffee, comforting food, and genuine human connection. We are committed to redefining the café culture by delivering exceptional quality—from our ethically sourced beans to our warm, thoughtfully designed spaces.
-                </p>
-                <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio maxime vero, accusantium illo quam, earum sequi, provident cum facere molestias est assumenda impedit deleniti sapiente eum minus inventore cumque iste.
-                </p>
-            </div>
-            <div class="col-lg-6 col-md-12 text-center">
-                <div class="vision-image-wrapper fade-in">
-                    <img src="img/ab3-info-img.png" alt="Cafe Vision" class="img-fluid rounded-image">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6 col-md-12">
+                                <h3>Our Vision & Passion</h3>
+                                <h5>Fueling Conversations, Connections, and Community Through Every Cup We Pour</h5>
+                                <p>
+                                    At BrewCoffee, our vision is to create a community-driven café experience that blends soulful coffee, comforting food, and genuine human connection. We are committed to redefining the café culture by delivering exceptional quality—from our ethically sourced beans to our warm, thoughtfully designed spaces.
+                                </p>
+                                <p>
+                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio maxime vero, accusantium illo quam, earum sequi, provident cum facere molestias est assumenda impedit deleniti sapiente eum minus inventore cumque iste.
+                                </p>
+                            </div>
+                            <div class="col-lg-6 col-md-12 text-center">
+                                <div class="vision-image-wrapper fade-in">
+                                    <img src="img/ab3-info-img.png" alt="Cafe Vision" class="img-fluid rounded-image">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </div>
-    </div>
-</div>
 
             </div>
         </div>
