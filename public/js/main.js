@@ -21,7 +21,7 @@ $('.home-products').owlCarousel({
             items:1
         },
         600:{
-            items:3
+            items:1
         },
         1000:{
             items:3
@@ -29,10 +29,33 @@ $('.home-products').owlCarousel({
     }
 })
 
+////////////////////// menu 2 //////////////////////
+
+function filterItems(category) {
+document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+event.target.classList.add('active');
+
+
+const cards = document.querySelectorAll('.menu-card');
+cards.forEach(card => {
+const cat = card.getAttribute('data-category');
+if (category === 'all' || cat.includes(category)) {
+card.style.display = 'block';
+} else {
+card.style.display = 'none';
+}
+});
+}
+
 
 document.getElementById('reservation-form').addEventListener('submit', function(e) {
 e.preventDefault();
 alert('Thank you! Your reservation request has been submitted.');
+});
+
+
+document.querySelector(".cta button").addEventListener("click", () => {
+alert("Thank you for joining our Coffee Club!");
 });
 
 // Initialize Swiper

@@ -187,23 +187,6 @@
 		</div>
 
 
-		<div class="why-choose-wrapper section-entry">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-5 col-md-5 col-sm-12">
-						<img src="img/hm-info-img.jpg" class="img-fluid">
-					</div>
-					<div class="col-lg-7 col-md-7 col-sm-12">
-						<div class="hm-about-box">
-							<h3>Lorem ipsum dolor sit amet.</h3>
-							<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio maxime vero, accusantium illo quam, earum sequi, provident cum facere molestias est assumenda impedit deleniti sapiente eum minus inventore cumque iste. Minus, deleniti ex molestiae, pariatur aperiam incidunt saepe ducimus ab voluptate fuga velit iusto numquam reprehenderit accusamus facilis. Cumque, facilis.</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-
 		<div class="testimonials-wrapper section-entry">
 			<div class="container">
 				<div class="row">
@@ -231,8 +214,8 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4 col-md-4 col-sm-12 mt-4">
-						<div class="test-wrap">
+					<div class="col-lg-4 col-md-4 col-sm-12 mt35 mt-4">
+						<div class="test-wrap mt35">
 							<div class="test-img-box">
 								<img src="img/customer-img.jpg" class="img-fluid">
 
@@ -250,7 +233,7 @@
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-12 mt-4">
-						<div class="test-wrap">
+						<div class="test-wrap mt35">
 							<div class="test-img-box">
 								<img src="img/customer-img.jpg" class="img-fluid">
 

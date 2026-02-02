@@ -1,3 +1,257 @@
 /*===============================================================
 	About us page
 =================================================================*/
+
+
+///////////////////////// ABOUT US 1 ////////////////////////////
+
+.ab2-banner-box {
+    background-image: url('../img/ab2-banner.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 270px;
+    background-blend-mode: overlay;
+    background-color: rgb(0 0 0 / 46%);
+
+}
+
+
+.ab2-about-wrapper {
+    background-image: url('../img/background-img-1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    li {
+        color: #341e18;
+        font-weight: 600;
+    }
+}
+
+.cont-info-box {
+    background-color: #fff;
+    padding: 25px;
+    border-radius: 15px;
+    height: 100%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    
+    .cont-icon-box i {
+        background-color: #e6bc8c;
+        padding: 10px;
+        text-align: center;
+        border-radius: 50%;
+        width: 85px;
+        height: 85px;
+        line-height: 68px;
+        font-size: 37px;
+    }
+
+    .info-txt-box {
+
+     a {
+       color: #000;
+    }
+  }
+}
+
+.story-wrapper {
+  background-color: #fef6ee;
+}
+
+.br15 {
+   border-radius: 25px;
+}
+
+
+
+///////////////////////// ABOUT US 2 ////////////////////////////
+
+h3{
+	font-size: 2.5rem;
+	font-weight: 700;
+	color: #3e2723;
+	margin-bottom: 15px;
+}
+
+h5 {
+	font-size: 1.2rem;
+	font-weight: 500;
+	color: #000;
+	margin-bottom: 20px;
+}
+
+p {
+	font-size: 1.05rem;
+	line-height: 1.8;
+	color: #5d4037;
+}
+
+.vision-section {
+    color: #4e342e;
+
+	.rounded-image {
+		border-radius: 20px;
+		box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+		max-width: 100%;
+		transition: transform 0.3s ease;
+	}
+
+	.rounded-image:hover {
+		transform: scale(1.03);
+	}
+
+	.fade-in {
+		opacity: 0;
+		animation: fadeIn 1s forwards ease-in;
+	}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}
+
+@media (max-width: 768px) {
+    .section-title {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .section-subtitle {
+        text-align: center;
+    }
+
+    .vision-section p {
+        text-align: center;
+    }
+
+    .rounded-image {
+        margin-top: 20px;
+    }
+}
+
+}
+
+.founder-section {
+    background-color: #fffaf3; /* soft cream-coffee background */
+    padding: 80px 0;
+    font-family: 'Poppins', sans-serif;
+
+
+	.founder-img {
+		border-radius: 20px;
+		box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+		max-width: 90%;
+	}
+
+	.btn-coffee {
+		background-color: #341e18;
+		color: #fff;
+		border-radius: 25px;
+		padding: 10px 25px;
+		font-weight: 500;
+		transition: background-color 0.3s ease;
+		text-decoration: none;
+	}
+
+	.btn-coffee:hover {
+		background-color: #a96a43;
+		color: #fff;
+	}
+
+	/* Responsive */
+	@media (max-width: 768px) {
+		.founder-title {
+			font-size: 2rem;
+		}
+
+		.founder-subtitle {
+			font-size: 1.1rem;
+		}
+
+		.founder-img {
+			max-width: 100%;
+		}
+	}
+
+}
+
+.ab3-team-wrapper {
+
+    .team-section {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 35px;
+    }
+
+    .team-member {
+      position: relative;
+      width: 250px;
+      overflow: hidden;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      background: #fff;
+      transition: transform 0.3s ease;
+    }
+
+    .team-member:hover {
+      transform: translateY(-5px);
+    }
+
+    .team-member img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .overlay {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      background: rgba(0, 0, 0, 0.7);
+      color: #fff;
+      padding: 15px;
+      text-align: left;
+    }
+
+    .overlay h3 {
+      margin: 0;
+      font-size: 18px;
+      color: #f9c400; /* Highlight name */
+    }
+
+    .overlay p {
+      margin: 5px 0 0;
+      font-size: 14px;
+      color: #ddd;
+    }
+
+    @media (max-width: 768px) {
+      .team-section {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+
+  }
+
+
+
+///////////////////////// ABOUT US 3 ////////////////////////////
+
+
+  .banner-box {
+      background-image: url('../img/about-banner-3.jpg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding: 270px;
+      background-blend-mode: overlay;
+      background-color: #0000009e;
+}
